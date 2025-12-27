@@ -1,27 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Cybersecurity projects (OSINT, Recon, Bug Bounty fundamentals)<br><br>Project MAYA – an advanced Python-based AI voice assistant (JARVIS-like system)<br><br>Hands-on labs on Hack The Box & real-world security scenarios<br><br>Strengthening Linux, networking, and automation with Python<br><br>👯 I’m looking to collaborate on<br><br>Cybersecurity research projects<br><br>Bug bounty / Web security practice<br><br>OSINT investigations & tooling<br><br>Python-based security tools or automation<br><br>Early-stage AI + security integrations<br><br>🤝 I’m looking for help with<br><br>Advanced bug bounty methodologies<br><br>Real-world vulnerability chaining<br><br>AI security & model exploitation<br><br>Improving system design for large-scale security tools<br><br>Guidance from industry professionals in cybersecurity<br><br>🌱 I’m currently learning<br><br>Web application security (OWASP Top 10, recon & exploitation)<br><br>Advanced OSINT techniques<br><br>Linux internals & networking<br><br>Python for security automation<br><br>AI security & red teaming basics<br><br>System design fundamentals<br><br>💬 Ask me about<br><br>Cybersecurity learning roadmaps<br><br>OSINT tools & investigation workflows<br><br>Google Dorking & reconnaissance<br><br>Python basics to intermediate concepts<br><br>Student-level bug bounty preparation<br><br>Building long-term projects like MAYA<br><br>⚡ Fun fact<br><br>I document everything by hand + Obsidian before coding 🧠<br><br>I prefer deep focus over shortcuts<br><br>Long-term goal: Top-tier cybersecurity engineer (20 LPA target)<br>
+# 💫 About Me
 
+🔭 **I’m currently working on**
+- Cybersecurity projects (OSINT, Recon, Bug Bounty fundamentals)
+- **Project MAYA** – an advanced Python-based AI voice assistant (JARVIS-like system)
+- Hands-on labs on Hack The Box & real-world security scenarios
+- Strengthening Linux, networking, and automation with Python
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hiten Singh Airy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitensinghairy@gmail.com) 
+👯 **I’m looking to collaborate on**
+- Cybersecurity research projects  
+- Bug bounty & web security practice  
+- OSINT investigations & tooling  
+- Python-based security tools or automation  
+- Early-stage AI + security integrations  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HITEN-AIRY&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HITEN-AIRY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HITEN-AIRY&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🤝 **I’m looking for help with**
+- Advanced bug bounty methodologies  
+- Real-world vulnerability chaining  
+- AI security & model exploitation  
+- Designing large-scale security tools  
+- Guidance from industry professionals  
+
+🌱 **I’m currently learning**
+- Web application security (OWASP Top 10, recon & exploitation)
+- Advanced OSINT techniques  
+- Linux internals & networking  
+- Python for security automation  
+- AI security & red teaming basics  
+- System design fundamentals  
+
+💬 **Ask me about**
+- Cybersecurity learning roadmaps  
+- OSINT tools & investigation workflows  
+- Google Dorking & reconnaissance  
+- Python (basic → intermediate)  
+- Student-level bug bounty preparation  
+- Long-term projects like **MAYA**
+
+⚡ **Fun fact**
+- I document everything using **pen + Obsidian** before coding  
+- I prefer deep focus over shortcuts  
+- Long-term goal: **Top-tier cybersecurity engineer (20 LPA target)**  
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiten-singh-airy/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hitensinghairy@gmail.com)
+
+---
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HITEN-AIRY&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=HITEN-AIRY&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HITEN-AIRY&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HITEN-AIRY&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=HITEN-AIRY&theme=dark&margin-w=4)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HITEN-AIRY&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=HITEN-AIRY&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM -->
